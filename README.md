@@ -29,8 +29,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Thiago-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thiago-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Thiago-pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/340653673828974592/932669086452822016/tumblr_d1e9773ab7e1b25eeb717dc60e357563_d68e5c7d_400.gif">
 </div>
 
       ##
