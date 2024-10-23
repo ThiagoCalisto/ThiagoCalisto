@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ######################################################################################################
 
 
-  Sou um desenvolvedor fullstack com experiência na área de desenvolvimento de software e um amplo conhecimento em várias
+--> Sou um desenvolvedor fullstack com experiência na área de desenvolvimento de software e um amplo conhecimento em várias
 linguagens, incluindo JavaScript, TypeScript, Rust, PHP e Python. Também acumulei experiência valiosa na interação com
 clientes de extrema importância para a empresa, participando de Provas de Conceito (PoC), inclusive obtendo sucesso em uma
 delas. Sou reconhecido pela minha comunicação eficaz e pela minha habilidade de trabalhar em equipe, e, quando necessário,
 consigo assumir funções de gestão de equipe.
 
-  Além disso, sou aluno do curso de Ciência da Computação com foco na licenciatura e tenho um forte interesse na área de
+--> Além disso, sou aluno do curso de Ciência da Computação com foco na licenciatura e tenho um forte interesse na área de
 desenvolvimento de sistemas web e mobile. Meu objetivo é aplicar e aprimorar meus conhecimentos em prol da instituição
 empregadora, visando o crescimento profissional. Estou ansioso para continuar contribuindo com minha experiência e
 habilidades, enquanto a empresa me fornece os recursos tecnológicos e humanos necessários para alcançar meu potencial
