@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###########################################################################################################
+######################################################################################################
 
 
   Sou um desenvolvedor fullstack com experiência na área de desenvolvimento de software e um amplo conhecimento em várias
@@ -29,7 +29,7 @@ empregadora, visando o crescimento profissional. Estou ansioso para continuar co
 habilidades, enquanto a empresa me fornece os recursos tecnológicos e humanos necessários para alcançar meu potencial
 máximo.
 
-###########################################################################################################
+######################################################################################################
 <!--
 <div align="center">
   <a href="https://github.com/ThiagoCalisto">
